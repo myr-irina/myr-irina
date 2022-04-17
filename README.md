@@ -40,5 +40,5 @@
 ### Get in touch
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-090909?style=flat&logo=Telegram&logoColor=0077b5&link=https://t.me/myririna)](https://t.me/myririna)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-090909?style=flat&logo=LinkedIn&logoColor=0077b5&link=https://www.linkedin.com/in/irina-aleks/)](https://www.linkedin.com/in/irina-aleks/)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-090909?style=flat&logo=Facebook&logoColor=4267B2&link=https://www.facebook.com/irina.alexxx)](https://www.facebook.com/irina.alexxx)
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-090909?style=flat&logo=LinkedIn&logoColor=0077b5&link=https://www.linkedin.com/in/irina-aleks/)](https://www.linkedin.com/in/irina-aleks/)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-090909?style=flat&logo=Facebook&logoColor=4267B2&link=https://www.facebook.com/irina.alexxx)](https://www.facebook.com/irina.alexxx) -->
