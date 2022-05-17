@@ -1,8 +1,8 @@
-﻿# Hi 👋, I'm Irina Aleksandrova
+﻿# Привет 👋, меня зовут Ирина Александрова
 
-- 🔭 a beginner frontend developer
-- 🌱 constantly learning
-- :sunny: looking for projects to build awsome products
+- 🔭 начинающий фронтенд-разработчик
+- 🌱 владею HTML, CSS, JS, React
+- :sunny: ищу работу
 <p>&nbsp;</p>
 
 ### Languages and Tools
