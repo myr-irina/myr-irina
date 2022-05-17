@@ -11,7 +11,7 @@
 
 ### Проекты
 #### На ReactJS:
-*  "KODE-app" - trainee test project at KODE. **An app that allows to look up employees and open an employee card for details**:
+*  "KODE-app" - тестовое задание в KODE. **Реализованы вывод пользователей списком, фильтрация их в соответствии с выбранным табом, поиск, а также сортировка пользователей по алфавиту или дате рождения через модальное окно.**:
     *  ["KODE-app" **(React JS. Stack: Create React App, React Router, Axios)**](https://github.com/myr-irina/KODE-app)
 
 *  "Movies Explorer" - дипломная работа в Яндекс Практикум. **Приложение, в котором реализован поиск по фильмам и есть функционал сохранения понравившегося фильма в Избранное**:
