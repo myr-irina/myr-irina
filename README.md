@@ -11,33 +11,32 @@
 
 ### Проекты
 #### На ReactJS:
-*  "Movies Explorer" - graduation project at Yandex.Practicum. **An app that allows to find movies and save them to a Favorite Movies tab**:
+*  "KODE-app" - trainee test project at KODE. **An app that allows to look up employees and open an employee card for details**:
+    *  ["KODE-app" **(React JS. Stack: Create React App, React Router, Axios)**](https://github.com/myr-irina/KODE-app)
+
+*  "Movies Explorer" - дипломная работа в Яндекс Практикум. **Приложение, в котором реализован поиск по фильмам и есть функционал сохранения понравившегося фильма в Избранное**:
     *  ["Movies Explorer" - **frontend (React JS)**](https://github.com/myr-irina/movies-explorer-frontend)
     *  ["Movies Explorer" - **backend (Express JS)**](https://github.com/myr-irina/movies-explorer-api)
 
-*  "Mesto" - portfolio project at Yandex.Practicum, **An app that allows to share photos**:
-    *  ["Mesto" **(Frontend and Backend)**](https://github.com/myr-irina/react-mesto-api-full) deployed to Yandex.Cloud
+*  "Mesto" - проектная работа в Яндекс Практикум. **Приложение на подобие соцсети, которое позволяет добавлять, лайкать и удалять фотографии**:
+    *  ["Mesto" **(Frontend and Backend)**](https://github.com/myr-irina/react-mesto-api-full) серверная часть развернута на Я.Облако
     *  ["Mesto" **(Express JS)**](https://github.com/myr-irina/express-mesto)
     *  ["Mesto" **(React JS App with User Login and Authentication)**](https://github.com/myr-irina/react-mesto-auth)
     *  ["Mesto" **(React JS App)**](https://github.com/myr-irina/mesto-react)
     *  ["Mesto" **(JS)**](https://github.com/myr-irina/mesto)
 
-*  "KODE-app" - trainee test project at KODE. **An app that allows to look up employees and open an employee card for details**:
-    *  ["KODE-app" **(React JS. Stack: Create React App, React Router, Axios)**](https://github.com/myr-irina/KODE-app)
 #### HTML, CSS:
-* [Travel Russia](https://github.com/myr-irina/Russia-travel) - portfolio project at Yandex.Practicum, **landing page with adaptive design**
-* [How to learn](https://github.com/myr-irina/how-to-learn) - portfolio project at Yandex.Practicum, **landing page with animation**
+* [Travel Russia](https://github.com/myr-irina/Russia-travel) - проектная работа в Яндекс Практикум, **реализован адаптивный дизайн**
+* [How to learn](https://github.com/myr-irina/how-to-learn) - проектная работа в Яндекс Практикум, **реализована анимация**
 <p>&nbsp;</p>
 
-### Some of my Github Stats
-
+### Статистика на GitHub
 [![irina's GitHub stats](https://github-readme-stats.vercel.app/api?username=myr-irina&hide=stars,contribs,issues&show_icons=true)](https://github.com/myr-irina/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myr-irina&layout=compact)](https://github.com/myr-irina/github-readme-stats)
 <p>&nbsp;</p>
 
-### Get in touch
-
+### Мои контакты
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-090909?style=flat&logo=Telegram&logoColor=0077b5&link=https://t.me/myririna)](https://t.me/myririna)
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-090909?style=flat&logo=LinkedIn&logoColor=0077b5&link=https://www.linkedin.com/in/irina-aleks/)](https://www.linkedin.com/in/irina-aleks/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-090909?style=flat&logo=Facebook&logoColor=4267B2&link=https://www.facebook.com/irina.alexxx)](https://www.facebook.com/irina.alexxx) -->
