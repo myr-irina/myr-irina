@@ -22,7 +22,7 @@
     *  ["Movies Explorer" - **backend (Express JS)**](https://github.com/myr-irina/movies-explorer-api)
 
 *  "Mesto" - проектная работа в Яндекс Практикум. **Приложение на подобие соцсети, которое позволяет добавлять, лайкать и удалять фотографии**:
-    *  ["Mesto" **(Frontend and Backend)**](https://github.com/myr-irina/react-mesto-api-full) серверная часть развернута на Я.Облако
+<!--     *  ["Mesto" **(Frontend and Backend)**](https://github.com/myr-irina/react-mesto-api-full) серверная часть развернута на Я.Облако -->
     *  ["Mesto" **(Express JS)**](https://github.com/myr-irina/express-mesto)
     *  ["Mesto" **(React JS App with User Login and Authentication)**](https://github.com/myr-irina/react-mesto-auth)
     *  ["Mesto" **(React JS App)**](https://github.com/myr-irina/mesto-react)
