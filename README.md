@@ -12,7 +12,7 @@
 ### Проекты
 #### На JS, ReactJS:
 *  "Roox-solutions-test" - тестовое задание. **Реализованы вывод пользователей списком, их фильтрация, переход в профиль пользователя, редактирование профиля, валидация полей ввода.**:
-    *  ["Roox-solutions-test" **(Stack: React JS, React Router)**](https://myr-irina.github.io/roox-solutions-test/)
+    *  ["Roox-solutions-test" **(Stack: React JS, React Router)**](https://github.com/myr-irina/roox-solutions-test)
     
 *  "KODE-app" - тестовое задание. **Реализованы вывод пользователей списком, фильтрация их в соответствии с выбранным табом, поиск, а также сортировка пользователей по алфавиту или дате рождения через модальное окно.**:
     *  ["KODE-app" **(Stack: React JS, React Router, Axios)**](https://github.com/myr-irina/KODE-app)
