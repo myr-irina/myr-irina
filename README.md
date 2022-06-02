@@ -11,20 +11,21 @@
 
 ### Проекты
 #### На JS, ReactJS:
-*  "Roox-solutions-test" - тестовое задание. **Реализованы вывод пользователей списком, их фильтрация, переход в профиль пользователя, редактирование профиля, валидация полей ввода.**:
+*  "Roox-solutions-test" - тестовое задание. **Реализованы вывод пользователей списком, их фильтрация, переход в профиль пользователя, редактирование профиля, валидация полей ввода**:
     *  ["Roox-solutions-test" **(Stack: React JS, React Router)**](https://github.com/myr-irina/roox-solutions-test)
     
-*  "KODE-app" - тестовое задание. **Реализованы вывод пользователей списком, фильтрация их в соответствии с выбранным табом, поиск, а также сортировка пользователей по алфавиту или дате рождения через модальное окно.**:
+*  "KODE-app" - тестовое задание. **Реализованы вывод пользователей списком, фильтрация их в соответствии с выбранным табом, поиск, а также сортировка пользователей по алфавиту или дате рождения через модальное окно**:
     *  ["KODE-app" **(Stack: React JS, React Router, Axios)**](https://github.com/myr-irina/KODE-app)
-
-*  "Movies Explorer" - дипломная работа в Яндекс Практикум. **Приложение, в котором реализован поиск по фильмам и есть функционал сохранения понравившегося фильма в Избранное**:
-    *  ["Movies Explorer" - **frontend (React JS)**](https://github.com/myr-irina/movies-explorer-frontend)
-    *  ["Movies Explorer" - **backend (Express JS)**](https://github.com/myr-irina/movies-explorer-api)
 
 *  "Mesto" - проектная работа в Яндекс Практикум. **Приложение на подобие соцсети, которое позволяет добавлять, лайкать и удалять фотографии**:
     *  ["Mesto" **(React JS App with User Login and Authentication)**](https://github.com/myr-irina/react-mesto-auth)
     *  ["Mesto" **(React JS App)**](https://github.com/myr-irina/mesto-react)
     *  ["Mesto" **(JS)**](https://github.com/myr-irina/mesto)
+    
+#### На JS, ReactJS + Node.js(Express):
+*  "Movies Explorer" - дипломная работа в Яндекс Практикум. **Приложение, в котором реализован поиск по фильмам и есть функционал сохранения понравившегося фильма в Избранное**:
+    *  ["Movies Explorer" - **frontend (React JS)**](https://github.com/myr-irina/movies-explorer-frontend)
+    *  ["Movies Explorer" - **backend (Express JS)**](https://github.com/myr-irina/movies-explorer-api)
 
 #### HTML, CSS:
 * [Travel Russia](https://github.com/myr-irina/Russia-travel) - проектная работа в Яндекс Практикум, **реализован адаптивный дизайн**
