@@ -11,16 +11,16 @@
 
 ### Проекты
 #### На JS, ReactJS:
-*  "Roox-solutions-test" - тестовое задание. **Реализованы вывод пользователей списком, их фильтрация, переход в профиль пользователя, редактирование профиля, валидация полей ввода**:
+*  "Roox-solutions-test" - SPA приложение на React. **Реализованы вывод пользователей списком, их фильтрация, переход в профиль пользователя, редактирование профиля, валидация полей ввода**:
     *  ["Roox-solutions-test" **(Stack: React JS, React Router)**](https://github.com/myr-irina/roox-solutions-test)
     
-*  "KODE-app" - тестовое задание. **Реализованы вывод пользователей списком, фильтрация их в соответствии с выбранным табом, поиск, а также сортировка пользователей по алфавиту или дате рождения через модальное окно**:
+*  "KODE-app" - SPA приложение на React. **Реализованы вывод пользователей списком, фильтрация их в соответствии с выбранным табом, поиск, а также сортировка пользователей по алфавиту или дате рождения через модальное окно**:
     *  ["KODE-app" **(Stack: React JS, React Router, Axios)**](https://github.com/myr-irina/KODE-app)
 
-*  "Mesto" - проектная работа в Яндекс Практикум. **Приложение на подобие соцсети, которое позволяет добавлять, лайкать и удалять фотографии**:
-    *  ["Mesto" **(React JS App with User Login and Authentication)**](https://github.com/myr-irina/react-mesto-auth)
-    *  ["Mesto" **(React JS App)**](https://github.com/myr-irina/mesto-react)
-    *  ["Mesto" **(JS)**](https://github.com/myr-irina/mesto)
+*  "Mesto" - проектная работа в Яндекс Практикум. **Приложение наподобие соцсети, которое позволяет добавлять, лайкать и удалять фотографии**:
+    *  ["Mesto" **(React JS App with User Login and Authentication)**](https://github.com/myr-irina/react-mesto-auth) - c аутентификацией
+    *  ["Mesto" **(React JS App)**](https://github.com/myr-irina/mesto-react) - на React
+    *  ["Mesto" **(JS)**](https://github.com/myr-irina/mesto) - на нативном JS
     
 #### На JS, ReactJS + Node.js(Express):
 *  "Movies Explorer" - дипломная работа в Яндекс Практикум. **Приложение, в котором реализован поиск по фильмам и есть функционал сохранения понравившегося фильма в Избранное**:
