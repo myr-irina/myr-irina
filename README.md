@@ -17,19 +17,14 @@
 *  "KODE-app" - SPA приложение на React. **Реализованы вывод пользователей списком, фильтрация их в соответствии с выбранным табом, поиск, а также сортировка пользователей по алфавиту или дате рождения через модальное окно**:
     *  ["KODE-app" **(Stack: React JS, React Router, Axios)**](https://github.com/myr-irina/KODE-app)
 
-*  "Mesto" - проектная работа в Яндекс Практикум. **Приложение наподобие соцсети, которое позволяет добавлять, лайкать и удалять фотографии**:
+*  "Mesto" - **Приложение наподобие соцсети, которое позволяет добавлять, лайкать и удалять фотографии**:
     *  ["Mesto" **(React JS App with User Login and Authentication)**](https://github.com/myr-irina/react-mesto-auth) - c аутентификацией
     *  ["Mesto" **(React JS App)**](https://github.com/myr-irina/mesto-react) - на React
-    *  ["Mesto" **(JS)**](https://github.com/myr-irina/mesto) - на нативном JS
+    *  ["Mesto" **(JS)**](https://github.com/myr-irina/mesto) - на нативном JS с использованием подхода ООП
     
-#### На JS, ReactJS + Node.js(Express):
-*  "Movies Explorer" - дипломная работа в Яндекс Практикум. **Приложение, в котором реализован поиск по фильмам и есть функционал сохранения понравившегося фильма в Избранное**:
-    *  ["Movies Explorer" - **frontend (React JS)**](https://github.com/myr-irina/movies-explorer-frontend)
-    *  ["Movies Explorer" - **backend (Express JS)**](https://github.com/myr-irina/movies-explorer-api)
-
 #### HTML, CSS:
-* [Travel Russia](https://github.com/myr-irina/Russia-travel) - проектная работа в Яндекс Практикум, **реализован адаптивный дизайн**
-* [How to learn](https://github.com/myr-irina/how-to-learn) - проектная работа в Яндекс Практикум, **реализована анимация**
+* [Travel Russia](https://github.com/myr-irina/Russia-travel) - **реализован адаптивный дизайн**
+* [How to learn](https://github.com/myr-irina/how-to-learn) - **реализована анимация**
 <p>&nbsp;</p>
 
 ### Статистика на GitHub
